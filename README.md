@@ -1,2 +1,2 @@
 # Dataset-Linking-docs
-The documentation website for the dataset linking will be available soon.
+The documentation for the dataset linking is available at: https://datagems-eosc.github.io/dataset-linking-docs/latest/
